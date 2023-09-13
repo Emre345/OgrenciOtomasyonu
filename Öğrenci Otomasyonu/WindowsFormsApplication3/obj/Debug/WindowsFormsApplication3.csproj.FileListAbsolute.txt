@@ -1,0 +1,33 @@
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\lab1pc1\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\lab1pc1\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\lab1pc1\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\lab1pc1\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\lab1pc1\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\lab1pc1\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\lab1pc1\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\lab1pc1\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\2.dönem nesne\sınıfı girilen öğrencinin verilerini çekme\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Emre\Desktop\2.dönem nesne\sınıfı girilen öğrencinin verilerini çekme\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Emre\Desktop\2.dönem nesne\sınıfı girilen öğrencinin verilerini çekme\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Emre\Desktop\Emre\2. Dönem Nesne\sınıfı girilen öğrencinin verilerini çekme\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Emre\Desktop\Emre\2. Dönem Nesne\sınıfı girilen öğrencinin verilerini çekme\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Emre\Desktop\Emre\2. Dönem Nesne\sınıfı girilen öğrencinin verilerini çekme\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+F:\Projelerim\2. Dönem Nesne\sınıfı girilen öğrencinin verilerini çekme\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+F:\Projelerim\2. Dönem Nesne\sınıfı girilen öğrencinin verilerini çekme\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+F:\Projelerim\2. Dönem Nesne\sınıfı girilen öğrencinin verilerini çekme\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+F:\Projelerim\2. Dönem Nesne\sınıfı girilen öğrencinin verilerini çekme\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.AssemblyReference.cache
+F:\Projelerim\2. Dönem Nesne\sınıfı girilen öğrencinin verilerini çekme\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.SuggestedBindingRedirects.cache
+F:\Projelerim\2. Dönem Nesne\sınıfı girilen öğrencinin verilerini çekme\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+F:\Projelerim\2. Dönem Nesne\sınıfı girilen öğrencinin verilerini çekme\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+F:\Projelerim\2. Dönem Nesne\sınıfı girilen öğrencinin verilerini çekme\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+F:\Projelerim\2. Dönem Nesne\sınıfı girilen öğrencinin verilerini çekme\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+F:\Projelerim\2. Dönem Nesne\sınıfı girilen öğrencinin verilerini çekme\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+F:\Projelerim\2. Dönem Nesne\sınıfı girilen öğrencinin verilerini çekme\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
